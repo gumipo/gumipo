@@ -1,3 +1,3 @@
 お寿司食べたい
 
-<img src="https://i.pinimg.com/originals/4c/13/0b/4c130b147ce9b8cbf596fbe3cf1ec20f.gif" alt="お寿司" />
+<img src="![image](https://github.com/user-attachments/assets/d6ae9805-1af1-4096-a356-880200de99b6)" alt="お寿司" />
